@@ -11,7 +11,7 @@
 </a>
 
 在 Github 查看：
-<a href="./LATIA112-2-1.ipynb" target="_blank">
+<a href="./LATIA112_2_1.ipynb" target="_blank">
 <img src="https://img.shields.io/badge/Jupyter-F9AB00?style=for-the-badge&logo=Jupyter&color=525252"><br>
 </a>
 
